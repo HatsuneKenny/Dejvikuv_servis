@@ -1,0 +1,2 @@
+Oprava motoru,5000,2023-05-01,Dokončený,Karel Dvorak
+Výměna oleje,1000,2023-06-01,Completed,Jan Novak

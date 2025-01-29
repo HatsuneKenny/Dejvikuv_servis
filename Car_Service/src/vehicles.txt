@@ -1,0 +1,5 @@
+Ford,Focus,2015,1FAHP3F26CL123456
+Toyota,Corolla,2018,2T1BURHE0JC987654
+Toyota,Supra,1998,4S3BG6858X7647321,cerna,benzin,nefunguje turbo
+bmw,m5,2024,1C4RJFBG5FC687954,cerna,nafta,turbo
+Honda,Civic,1998,JH4DB7540RS001911,Cervena,Benzin,Palovovy senzor

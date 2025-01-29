@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DataManager {
-    // Dynamicky získá aktuální složku projektu
+    // Dynamicky získá složku, kde se nachází JAR soubor
     private static final String BASE_PATH = Paths.get(System.getProperty("user.dir")).toAbsolutePath().toString();
     private static final String CUSTOMERS_FILE = Paths.get(BASE_PATH, "customers.txt").toString();
     private static final String VEHICLES_FILE = Paths.get(BASE_PATH, "vehicles.txt").toString();
